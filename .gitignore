@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Compiled Python modules
+*.pyc
+
+# macOS specific files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Private files
+*.xls
+*.xlsx
+saldo.*
