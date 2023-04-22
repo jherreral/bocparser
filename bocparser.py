@@ -1,11 +1,12 @@
 import pandas as pd
 
-categories = {"Delivery":["RAPPI RAPPI ** COMPRAS","KUSHKI *JUSTO CHILE COMPRAS","MARKET CONDELL           SANTIAGO     CL"],"Supermercado":["JUMBO BILBAO COMPRAS"]}
+categories = {"Delivery":["RAPPI","KUSHKI *JUSTO","MARKET CONDELL"],"Supermercado":["JUMBO"]}
 
 def get_category(description):
-    for key,value in categories.items():
-        if description in value:
-            return key
+    for category,word_list in categories.items():
+        for word in word_list:
+            if description.find(word) != -1:
+                return category
     return None
 
 
