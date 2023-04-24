@@ -1,0 +1,90 @@
+{
+    "Supermercado": [
+        "JUMBO",
+        "Ekono",
+        "Tottus",
+        "unimarc",
+        "redelco*alimentos",
+        "redelcoalimentos",
+        "supermercado"
+    ],
+    "Farmacia": [
+        "Ahumada",
+        "Cruz verde",
+        "C. verde",
+        "Salcobrand",
+        "Farmacia"
+    ],
+    "Mascotas": [
+        " PET "
+    ],
+    "Restaurant": [
+        "Piccola"
+    ],
+    "Bencina": [
+        "Copec",
+        "Petrobras"
+    ],
+    "Estacionamiento": [
+        "Saba",
+        "Parking"
+    ],
+    "Peaje": [
+        "Tag ",
+        "Autopista"
+    ],
+    "Viajes": [
+        "Iberia",
+        "Jetsmart"
+    ],
+    "Comida rapida": [
+        "RAPPI",
+        "KUSHKI *JUSTO",
+        "Uber eats",
+        "Subway"
+    ],
+    "Golosinas": [
+        "AM Dulceria",
+        "Dunkin",
+        "Starbucks"
+    ],
+    "Carrete": [
+        "botilleria"
+    ],
+    "Electronica": [
+        "PC Factory"
+    ],
+    "Ropa": [
+        "Umbrale"
+    ],
+    "Hogar": [
+        "Sodimac",
+        "Ferreteria"
+    ],
+    "Transporte": [
+        "Uber",
+        "Cabify"
+    ],
+    "Espectaculos": [
+        "Punto Ticket",
+        "Cinepolis"
+    ],
+    "Libreria": [
+        "Diario fina",
+        "Copesa",
+        "papelaria"
+    ],
+    "Regalos": [
+        "Mi lista de novios"
+    ],
+    "Telecomunicaciones": [
+        "VTR",
+        "Entel",
+        "Movistar"
+    ],
+    "Servicios online": [
+        "prime video",
+        "netflix",
+        "steam"
+    ]
+}

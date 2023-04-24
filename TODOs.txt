@@ -1,3 +1,3 @@
-- Need to move categories to another file.
-- Need to fill categories with several words.
+- Need to add other sources like transfers and debit card.
 - Need to add the sums per category to know how much is spent on each category.
+- Once the script run automated or periodically, ask the user for a category when no suitable one was found.
